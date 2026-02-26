@@ -1,4 +1,6 @@
 # Welcome to your Expo app 👋
+## Project Snapshot
+![News App Screenshot](https://github.com/si99hi/news-app/blob/main/assets/images/newsapp-ss.png)
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
