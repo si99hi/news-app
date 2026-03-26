@@ -3,6 +3,7 @@
 // npm install @react-navigation/stack
 // expo install react-native-gesture-handler react-native-reanimated react-native-screens
 
+import 'react-native-reanimated';
 import 'react-native-gesture-handler';
 import { SplashScreen } from './screens/SplashScreen';
 import { createStackNavigator } from '@react-navigation/stack';
